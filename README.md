@@ -14,9 +14,10 @@
 
 ## ⬇️ Download
 
-* **Grammar Deck**: [Download](https://drive.google.com/file/d/1RzR1xQieO1rekFTK5zJq2iZrVGXTDwC3/view?usp=drive_link)
-* **Hanja Deck**: [Download](https://drive.google.com/file/d/1p4fbxvJK37_ulcmK8Di9m2iZda5RqKHS/view?usp=drive_link)
+* **Grammar Deck**: <a href="https://drive.google.com/file/d/1RzR1xQieO1rekFTK5zJq2iZrVGXTDwC3/view?usp=drive_link">Download</a>
+* **Hanja Deck**: <a href="https://drive.google.com/file/d/1p4fbxvJK37_ulcmK8Di9m2iZda5RqKHS/view?usp=drive_link">Download</a>
 
+---
 
 ## Korean Grammar Deck
 
@@ -27,21 +28,26 @@ Each time, the front of the card shows a different random example with a randoml
 
 **Front examples**
 
-|                                            |                                            |
-| ------------------------------------------ | ------------------------------------------ |
-| ![](korean/grammar/screenshots/front1.jpg) | ![](korean/grammar/screenshots/front2.jpg) |
+<table>
+  <tr>
+    <td><img src="korean/grammar/screenshots/front1.jpg"></td>
+    <td><img src="korean/grammar/screenshots/front2.jpg"></td>
+  </tr>
+</table>
 
 **Back examples**
 
-|                                           |                                           |
-| ----------------------------------------- | ----------------------------------------- |
-| ![](korean/grammar/screenshots/back1.jpg) | ![](korean/grammar/screenshots/back2.jpg) |
+<table>
+  <tr>
+    <td><img src="korean/grammar/screenshots/back1.jpg"></td>
+    <td><img src="korean/grammar/screenshots/back2.jpg"></td>
+  </tr>
+</table>
 
+<p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
+<strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md">see the dedicated README here</a></strong>.</p>
 
-**For more details about this deck** (tags, credits, structure, and how it was built),  
-**[see the dedicated README here](https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md)**.
-
-
+---
 
 ## Hanja Deck
 
@@ -51,62 +57,73 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 
 **Front examples**
 
-|                                          |
-| ---------------------------------------- | 
-| ![](korean/hanja/screenshots/front1.jpg) | 
+<table>
+  <tr>
+    <td><img src="korean/hanja/screenshots/front1.jpg"></td>
+  </tr>
+</table>
 
 **Back examples**
 
-|                                         |                                         |                                         |
-| --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![](korean/hanja/screenshots/back1.jpg) | ![](korean/hanja/screenshots/back2.jpg) | ![](korean/hanja/screenshots/back3.jpg) |
+<table>
+  <tr>
+    <td><img src="korean/hanja/screenshots/back1.jpg"></td>
+    <td><img src="korean/hanja/screenshots/back2.jpg"></td>
+    <td><img src="korean/hanja/screenshots/back3.jpg"></td>
+  </tr>
+</table>
 
-**For more details about this deck** (tags, credits, structure, and how it was built),  
-**[see the dedicated README here](https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md)**.
+<p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
+<strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md">see the dedicated README here</a></strong>.</p>
+
+---
 
 ## User Configuration
 
-Both decks include a **USER CONFIGURATION AREA** directly inside the **Front** and **Back** HTML of the cards.
+Both decks include a <strong>USER CONFIGURATION AREA</strong> directly inside the <strong>Front</strong> and <strong>Back</strong> HTML of the cards.
 
-This section allows you to customize the deck behavior and appearance (for example: display options, fonts, or other variables) **without touching the core logic**.
+This section allows you to customize the deck behavior and appearance (for example: display options, fonts, or other variables) <strong>without touching the core logic</strong>.
 
 To modify it:
 
 1. Open Anki
-2. Go to **Browse** → select the deck
-3. Click **Cards…**
-4. Edit the values inside the **USER CONFIGURATION AREA** in the Front and/or Back HTML
+2. Go to <strong>Browse</strong> → select the deck
+3. Click <strong>Cards…</strong>
+4. Edit the values inside the <strong>USER CONFIGURATION AREA</strong> in the Front and/or Back HTML
 
 ### Configuration preview
 
-![](korean/grammar/screenshots/config1.jpg)
+<img src="korean/grammar/screenshots/config1.jpg">
 
+---
 
 ### Optional Glassmorphism (CSS)
 
-The card styling includes an **optional glassmorphism effect** that can be enabled or adjusted directly in the **CSS**.
+The card styling includes an <strong>optional glassmorphism effect</strong> that can be enabled or adjusted directly in the <strong>CSS</strong>.
 
 To configure it:
 
-1. Open **Cards…** in Anki
-2. Go to the **Styling (CSS)** section
-3. Delete start and end comment in the first section GLASSMORPHISM OPTION
+1. Open <strong>Cards…</strong> in Anki
+2. Go to the <strong>Styling (CSS)</strong> section
+3. Delete start and end comment in the first section <em>GLASSMORPHISM OPTION</em>
 
-**How to configure**
+<strong>How to configure</strong>
 
-![](korean/grammar/screenshots/config2.jpg)
+<img src="korean/grammar/screenshots/config2.jpg">
 
-**Visual result**
+<strong>Visual result</strong>
 
-![](korean/grammar/screenshots/glassmorphism.jpg)
+<img src="korean/grammar/screenshots/glassmorphism.jpg">
 
+---
 
 ## Credits
 
+---
 
 ## License
 
-This project is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+This project is licensed under <strong>Creative Commons Attribution 4.0 International (CC BY 4.0)</strong>.
 
 You are free to:
 
@@ -115,10 +132,6 @@ You are free to:
 
 Under the following condition:
 
-* **Attribution** — you must give appropriate credit.
+* <strong>Attribution</strong> — you must give appropriate credit.
 
-See the `LICENSE` file for full details.
-
-
-
-
+See the <code>LICENSE</code> file for full details.
