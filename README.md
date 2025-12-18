@@ -1,5 +1,16 @@
 # Korean Anki Decks
 
+## Table of Contents
+
+- [Download](#-download)
+- [Korean Grammar Deck](#korean-grammar-deck)
+- [Hanja Deck](#hanja-deck)
+- [Usage](#usage)
+- [User Configuration](#user-configuration)
+  - [Optional Glassmorphism (CSS)](#optional-glassmorphism-css)
+- [Credits](#credits)
+- [License](#license)
+
 ---
 
 ## ⬇️ Download
@@ -61,12 +72,6 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 
 ---
 
-Happy studying
-
----
-
----
-
 ## User Configuration
 
 Both decks include a **USER CONFIGURATION AREA** directly inside the **Front** and **Back** HTML of the cards.
@@ -84,7 +89,6 @@ To modify it:
 
 ![](korean/grammar/screenshots/config1.jpg)
 
----
 
 ### Optional Glassmorphism (CSS)
 
@@ -110,6 +114,10 @@ To configure it:
 
 ## Credits
 
+
+---
+
+Happy studying
 
 ---
 
