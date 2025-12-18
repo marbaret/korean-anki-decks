@@ -10,14 +10,10 @@
 - [Credits](#credits)
 - [License](#license)
 
----
-
-## ⬇️ Download
+##  Download
 
 * **Grammar Deck**: <a href="https://drive.google.com/file/d/1RzR1xQieO1rekFTK5zJq2iZrVGXTDwC3/view?usp=drive_link">Download</a>
 * **Hanja Deck**: <a href="https://drive.google.com/file/d/1p4fbxvJK37_ulcmK8Di9m2iZda5RqKHS/view?usp=drive_link">Download</a>
-
----
 
 ## Korean Grammar Deck
 
@@ -26,28 +22,25 @@ Each time, the front of the card shows a different random example with a randoml
 
 ### Card previews
 
-**Front examples**
+**Front example**
 
 <table>
   <tr>
-    <td><img src="korean/grammar/screenshots/front1.jpg"></td>
-    <td><img src="korean/grammar/screenshots/front2.jpg"></td>
+    <img src="korean/grammar/screenshots/front1.jpg">
   </tr>
 </table>
 
-**Back examples**
+**Back example**
 
 <table>
   <tr>
-    <td><img src="korean/grammar/screenshots/back1.jpg"></td>
-    <td><img src="korean/grammar/screenshots/back2.jpg"></td>
+    <img src="korean/grammar/screenshots/back1.jpg">
+
   </tr>
 </table>
 
 <p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
 <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md">see the dedicated README here</a></strong>.</p>
-
----
 
 ## Hanja Deck
 
@@ -55,15 +48,15 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 
 ### Card previews
 
-**Front examples**
+**Front example**
 
 <table>
   <tr>
-    <td><img src="korean/hanja/screenshots/front1.jpg"></td>
+    <img src="korean/hanja/screenshots/front1.jpg">
   </tr>
 </table>
 
-**Back examples**
+**Back example**
 
 <table>
   <tr>
@@ -75,8 +68,6 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 
 <p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
 <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md">see the dedicated README here</a></strong>.</p>
-
----
 
 ## User Configuration
 
@@ -94,8 +85,6 @@ To modify it:
 ### Configuration preview
 
 <img src="korean/grammar/screenshots/config1.jpg">
-
----
 
 ### Optional Glassmorphism (CSS)
 
@@ -115,11 +104,9 @@ To configure it:
 
 <img src="korean/grammar/screenshots/glassmorphism.jpg">
 
----
 
 ## Credits
 
----
 
 ## License
 
