@@ -133,7 +133,7 @@ For example, there are points with only **one example sentence**, and it would b
 
 ### Hanja Deck
 
-This deck was created by merging **Retro's Hanja deck**, which can be found **[here](https://drive.google.com/drive/folders/1FemoEaheHiJy2eEtTQGU_bNj8yQipjo)**  
+This deck was created by merging **Retro's Hanja deck**, which can be found **[here](https://drive.google.com/drive/folders/1FemoEaheHiJy2eEtTQXGU_bNj8yQipjo?usp=sharing)**  
 and another deck that I unfortunately can’t find again on AnkiWeb.  
 
 I also added fields with data scraped from **[Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)**.  
