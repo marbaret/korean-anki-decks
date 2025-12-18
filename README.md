@@ -112,7 +112,7 @@ To configure it:
 This deck has been created using the GitHub repo from **[Kimchi Reader's](https://kimchi-reader.app/) grammar section**.  
 
 **I strongly encourage you to try out [Kimchi Reader](https://kimchi-reader.app/) !**  
-It's the most amazing tool I've used to learn Korean and the best way to build a vocab deck using its sentence mining feature. There is a 2-week free trial, so honestly just give it a try.  
+It's the most amazing tool I've used to learn Korean and the best way to build a vocab deck using its sentence mining feature. There is a 1-week free trial, so honestly just give it a try.  
 
 There is an amazing **[Discord server](https://discord.gg/abRkZ2hhSA)** with people who will help you if you have any questions.
 
