@@ -14,8 +14,8 @@
 
 ## ⬇️ Download
 
-* **Grammar Deck**: [Download](korean/grammar/Grammar.apkg)
-* **Hanja Deck**: [Download](korean/hanja/Hanja.apkg)
+* **Grammar Deck**: [Download](https://drive.google.com/file/d/1RzR1xQieO1rekFTK5zJq2iZrVGXTDwC3/view?usp=drive_link)
+* **Hanja Deck**: [Download](https://drive.google.com/file/d/1p4fbxvJK37_ulcmK8Di9m2iZda5RqKHS/view?usp=drive_link)
 
 
 ## Korean Grammar Deck
@@ -79,8 +79,6 @@ To modify it:
 ### Optional Glassmorphism (CSS)
 
 The card styling includes an **optional glassmorphism effect** that can be enabled or adjusted directly in the **CSS**.
-
-You can toggle or fine-tune this effect (blur, transparency, background, borders) without affecting the card logic.
 
 To configure it:
 
