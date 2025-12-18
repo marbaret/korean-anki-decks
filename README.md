@@ -5,7 +5,6 @@
 - [Download](#-download)
 - [Korean Grammar Deck](#korean-grammar-deck)
 - [Hanja Deck](#hanja-deck)
-- [Usage](#usage)
 - [User Configuration](#user-configuration)
   - [Optional Glassmorphism (CSS)](#optional-glassmorphism-css)
 - [Credits](#credits)
@@ -60,15 +59,6 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | ![](korean/hanja/screenshots/back1.jpg) | ![](korean/hanja/screenshots/back2.jpg) | ![](korean/hanja/screenshots/back3.jpg) |
 
-
-
-
-## Usage
-
-1. Download the `.apkg` file
-2. Open Anki
-3. `File → Import`
-4. Start studying
 
 ---
 
