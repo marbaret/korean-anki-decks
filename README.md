@@ -38,7 +38,7 @@ Each time, the front of the card shows a different random example with a randoml
 | ![](korean/grammar/screenshots/back1.jpg) | ![](korean/grammar/screenshots/back2.jpg) |
 
 
-** For more details about this deck** (tags, credits, structure, and how it was built),  
+**For more details about this deck** (tags, credits, structure, and how it was built),  
 **[see the dedicated README here](https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md)**.
 
 
@@ -61,7 +61,7 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | ![](korean/hanja/screenshots/back1.jpg) | ![](korean/hanja/screenshots/back2.jpg) | ![](korean/hanja/screenshots/back3.jpg) |
 
-** For more details about this deck** (tags, credits, structure, and how it was built),  
+**For more details about this deck** (tags, credits, structure, and how it was built),  
 **[see the dedicated README here](https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md)**.
 
 ## User Configuration
