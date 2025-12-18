@@ -18,8 +18,6 @@
 * **Hanja Deck**: [Download](korean/hanja/Hanja.apkg)
 
 
----
-
 ## Korean Grammar Deck
 
 This deck focuses on Korean grammar patterns with clear examples.
@@ -39,7 +37,6 @@ Each time, the front of the card shows a different random example with a randoml
 | ----------------------------------------- | ----------------------------------------- |
 | ![](korean/grammar/screenshots/back1.jpg) | ![](korean/grammar/screenshots/back2.jpg) |
 
----
 
 ## Hanja Deck
 
@@ -60,7 +57,6 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 | ![](korean/hanja/screenshots/back1.jpg) | ![](korean/hanja/screenshots/back2.jpg) | ![](korean/hanja/screenshots/back3.jpg) |
 
 
----
 
 ## User Configuration
 
@@ -100,16 +96,9 @@ To configure it:
 
 ![](korean/grammar/screenshots/glassmorphism.jpg)
 
----
 
 ## Credits
 
-
----
-
-Happy studying
-
----
 
 ## License
 
