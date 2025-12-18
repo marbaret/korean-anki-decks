@@ -19,13 +19,13 @@ Each time, the front of the card shows a different random example with a randoml
 
 **Front examples**
 
-
+|                                            |                                            |
 | ------------------------------------------ | ------------------------------------------ |
 | ![](korean/grammar/screenshots/front1.jpg) | ![](korean/grammar/screenshots/front2.jpg) |
 
 **Back examples**
 
-
+|                                           |                                           |
 | ----------------------------------------- | ----------------------------------------- |
 | ![](korean/grammar/screenshots/back1.jpg) | ![](korean/grammar/screenshots/back2.jpg) |
 
@@ -39,13 +39,13 @@ This deck helps build recognition and understanding of commonly used Hanja and t
 
 **Front examples**
 
-
+|                                          |
 | ---------------------------------------- | 
 | ![](korean/hanja/screenshots/front1.jpg) | 
 
 **Back examples**
 
-
+|                                         |                                         |                                         |
 | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | ![](korean/hanja/screenshots/back1.jpg) | ![](korean/hanja/screenshots/back2.jpg) | ![](korean/hanja/screenshots/back3.jpg) |
 
@@ -127,8 +127,6 @@ Under the following condition:
 * **Attribution** — you must give appropriate credit.
 
 See the `LICENSE` file for full details.
-
-
 
 
 
