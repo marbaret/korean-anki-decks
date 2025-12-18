@@ -119,6 +119,9 @@ There is an amazing **[Discord server](https://discord.gg/abRkZ2hhSA)** with peo
 - **[Kimchi Reader Grammar page](https://kimchi-reader.app/grammar)**  
 - **[Kimchi Reader Grammar GitHub repo](https://github.com/Alaanor/kimchi-grammar)**
 
+**Disclaimer**
+
+I am not the creator of Kimchi Reader, and the Grammar page was not originally created for learning purposes.
 
 ### Hanja Deck
 
