@@ -109,8 +109,6 @@ To configure it:
 
 ### Grammar Deck
 
-### Grammar Deck
-
 This deck has been created using the GitHub repo from **[Kimchi Reader's](https://kimchi-reader.app/) grammar section**.  
 
 **I strongly encourage you to try out [Kimchi Reader](https://kimchi-reader.app/) !**  
@@ -121,7 +119,6 @@ There is an amazing **[Discord server](https://discord.gg/abRkZ2hhSA)** with peo
 - **[Kimchi Reader Grammar page](https://kimchi-reader.app/grammar)**  
 - **[Kimchi Reader Grammar GitHub repo](https://github.com/Alaanor/kimchi-grammar)**
 
----
 
 ### Hanja Deck
 
