@@ -101,7 +101,7 @@ To configure it:
 
 <strong>Visual result</strong>
 
-<img src="korean/grammar/screenshots/glassmorphism.jpg">
+<img src="korean/grammar/screenshots/glassmorphism.png">
 
 
 ## Credits
