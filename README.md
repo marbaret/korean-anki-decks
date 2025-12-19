@@ -17,8 +17,15 @@
 
 ## Korean Grammar Deck
 
-This deck focuses on Korean grammar patterns with clear examples.
-Each time, the front of the card shows a different random example with a randomly selected font.
+This deck focuses on **Korean grammar patterns**.
+Each time a card comes up, the **front** shows a **random example sentence** from the card’s sentence pool, with a **randomly selected font**.
+On the **back**, the randomly selected sentence appears at the top, and you can see all other possible sentences in the **“all examples”** section.
+You can **click on any highlighted grammar point**, which will link directly to the related **[Kimchi Reader](https://kimchi-reader.app/grammar) grammar page**.
+There is **one card per meaning**, so if a grammar point has **three meanings**, the deck contains **three separate cards**, each with its own specific example sentences.
+It is ordered by frequency, with a small gap between cards of the **same grammar point** but **different meanings**.
+My **personal recommendation** is to study **no more than 2–3 cards per day**, alongside your usual reviews.
+With this pace, you will finish the deck in **about 110–160 days** (**332 cards total**).
+
 
 ### Card previews
 
@@ -44,7 +51,13 @@ Each time, the front of the card shows a different random example with a randoml
 
 ## Hanja Deck
 
-This deck helps build recognition and understanding of commonly used Hanja and their usage in Korean.
+This deck helps build **recognition and understanding of commonly used Hanja** and their usage in Korean.
+It contains **multiple sections** that can be easily **enabled or disabled** to suit individual preferences directly in the **HTML** (see the [**User Configuration**](#user-configuration) section below).
+It is **ordered by 한자능력검정 급수** (8급, 7급, etc.).
+My personal recommendation is to study **no more than 5 cards per day**, alongside your usual reviews.
+With this pace, you will finish the deck in **about one year** (**1,948 cards total**).
+
+
 
 ### Card previews
 
@@ -108,7 +121,7 @@ To configure it:
 
 ### Grammar Deck
 
-This deck has been created using the GitHub repo from **[Kimchi Reader's](https://kimchi-reader.app/) grammar section**.  
+This deck has been created using the GitHub repo from **[Kimchi Reader's](https://kimchi-reader.app/grammar) grammar section**.  
 
 **I strongly encourage you to try out [Kimchi Reader](https://kimchi-reader.app/) !**  
 It's the most amazing tool I've used to learn Korean and the best way to build a vocab deck using its sentence mining feature. There is a 1-week free trial, so honestly just give it a try.  
