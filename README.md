@@ -12,8 +12,8 @@
 
 ##  Download
 
-* **Grammar Deck**: <a href="https://drive.google.com/file/d/14Xc4-9eqFB1QNzckk6onM4P3oqzgDd_0/view?usp=drive_link">Download</a>
-* **Hanja Deck**: <a href="https://drive.google.com/file/d/1z-p1bKl5Ms43DzSoXbQ-TxEeZJMFUPKk/view?usp=drive_link">Download</a>
+* **Grammar Deck**: <a href="https://drive.google.com/file/d/1O2PAZyGvjX4w7UiVjaX8BuDE71Oc6Scp/view?usp=drive_link">Download</a>
+* **Hanja Deck**: <a href="https://drive.google.com/file/d/1HcRvRjV2Y_nGwVnRZi_7GW7-3k8zzrQf/view?usp=drive_link">Download</a>
 
 ## Korean Grammar Deck
 
