@@ -17,13 +17,17 @@
 
 ## Korean Grammar Deck
 
-This deck focuses on **Korean grammar patterns**.
-Each time a card comes up, the **front** shows a **random example sentence** from the card’s sentence pool, with a **randomly selected font**.
-On the **back**, the randomly selected sentence appears at the top, and you can see all other possible sentences in the **“all examples”** section.
+This deck focuses on **Korean grammar patterns**.  
+
+Each time a card comes up, the **front** shows a **random example sentence** from the card’s sentence pool, with a **randomly selected font**.  
+On the **back**, the randomly selected sentence appears at the top, and you can see all other possible sentences in the **“all examples”** section.  
+
 You can **click on any highlighted grammar point**, which will link directly to the related **[Kimchi Reader](https://kimchi-reader.app/grammar) grammar page**.
-There is **one card per meaning**, so if a grammar point has **three meanings**, the deck contains **three separate cards**, each with its own specific example sentences.
-It is ordered by frequency, with a small gap between cards of the **same grammar point** but **different meanings**.
-My **personal recommendation** is to study **no more than 2–3 cards per day**, alongside your usual reviews.
+
+There is **one card per meaning**, so if a grammar point has **three meanings**, the deck contains **three separate cards**, each with its own specific example sentences.  
+It is ordered by frequency, with a small gap between cards of the **same grammar point** but **different meanings**. 
+
+My **personal recommendation** is to study **no more than 2–3 cards per day**, alongside your usual reviews.   
 With this pace, you will finish the deck in **about 110–160 days** (**332 cards total**).
 
 
@@ -52,9 +56,12 @@ With this pace, you will finish the deck in **about 110–160 days** (**332 card
 ## Hanja Deck
 
 This deck helps build **recognition and understanding of commonly used Hanja** and their usage in Korean.
+  
 It contains **multiple sections** that can be easily **enabled or disabled** to suit individual preferences directly in the **HTML** (see the [**User Configuration**](#user-configuration) section below).
+ 
 It is **ordered by 한자능력검정 급수** (8급, 7급, etc.).
-My personal recommendation is to study **no more than 5 cards per day**, alongside your usual reviews.
+ 
+My personal recommendation is to study **no more than 5 cards per day**, alongside your usual reviews.   
 With this pace, you will finish the deck in **about one year** (**1,948 cards total**).
 
 
