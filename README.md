@@ -12,8 +12,8 @@
 
 ##  Download
 
-* **Grammar Deck**: <a href="https://drive.google.com/file/d/1RzR1xQieO1rekFTK5zJq2iZrVGXTDwC3/view?usp=drive_link">Download</a>
-* **Hanja Deck**: <a href="https://drive.google.com/file/d/1p4fbxvJK37_ulcmK8Di9m2iZda5RqKHS/view?usp=drive_link">Download</a>
+* **Grammar Deck**: <a href="https://drive.google.com/file/d/14Xc4-9eqFB1QNzckk6onM4P3oqzgDd_0/view?usp=drive_link">Download</a>
+* **Hanja Deck**: <a href="https://drive.google.com/file/d/1z-p1bKl5Ms43DzSoXbQ-TxEeZJMFUPKk/view?usp=drive_link">Download</a>
 
 ## Korean Grammar Deck
 
@@ -141,7 +141,9 @@ All credits go to Retro and to the creator of the other deck.
 
 Find **Retro's Blog site** **[here](https://retrolearnskorean.blogspot.com/)**.
 
+### More
 
+If you have any questions, suggestions, or issues, don’t hesitate to contact me on Discord: **mathieu.exe**
 
 ## License
 
