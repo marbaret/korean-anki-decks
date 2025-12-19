@@ -118,7 +118,7 @@ To configure it:
 
 <img src="korean/grammar/screenshots/config2.jpg">
 
-<strong>Visual result</strong>
+<strong>Visual result (with external background)</strong>
 
 <img src="korean/grammar/screenshots/glassmorphism.png">
 
