@@ -166,5 +166,5 @@ If you have any questions, suggestions, or issues, don’t hesitate to contact m
 
 ## License
 
-This project is licensed under <strong>Creative Commons Attribution 4.0 International (CC BY 4.0)</strong>.
+This project is licensed under <strong>Creative Commons Attribution 4.0 International (CC BY 4.0)</strong>.  
 See the <code>LICENSE</code> file for full details.
