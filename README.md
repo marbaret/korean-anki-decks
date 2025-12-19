@@ -167,14 +167,4 @@ If you have any questions, suggestions, or issues, don’t hesitate to contact m
 ## License
 
 This project is licensed under <strong>Creative Commons Attribution 4.0 International (CC BY 4.0)</strong>.
-
-You are free to:
-
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
-
-Under the following condition:
-
-* <strong>Attribution</strong> — you must give appropriate credit.
-
 See the <code>LICENSE</code> file for full details.
