@@ -39,7 +39,7 @@ Each time, the front of the card shows a different random example with a randoml
   </tr>
 </table>
 
-<p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
+<p><strong>For more details about this deck</strong> (tags, structure, and how it was built),<br>
 <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md">see the dedicated README here</a></strong>.</p>
 
 ## Hanja Deck
@@ -65,7 +65,7 @@ This deck helps build recognition and understanding of commonly used Hanja and t
   </tr>
 </table>
 
-<p><strong>For more details about this deck</strong> (tags, credits, structure, and how it was built),<br>
+<p><strong>For more details about this deck</strong> (tags, structure, and how it was built),<br>
 <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md">see the dedicated README here</a></strong>.</p>
 
 ## User Configuration
