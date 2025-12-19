@@ -50,7 +50,7 @@ With this pace, you will finish the deck in **about 110–160 days** (**332 card
   </tr>
 </table>
 
-<p><strong>For more details about this deck</strong> (tags, structure, and how it was built),<br>
+<p><strong>For more details about this deck</strong> (tags, structure, and how it was built),
 <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/grammar/README.md">see the dedicated README here</a></strong>.</p>
 
 ## Hanja Deck
@@ -85,8 +85,7 @@ With this pace, you will finish the deck in **about one year** (**1,948 cards to
   </tr>
 </table>
 
-<p><strong>For more details about this deck</strong> (tags, structure, and how it was built),<br>
-<strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md">see the dedicated README here</a></strong>.</p>
+<p><strong>For more details about this deck</strong> (tags, structure, and how it was built), <strong><a href="https://github.com/marbaret/anki-decks/blob/main/korean/hanja/README.md">see the dedicated README here</a></strong>.</p>
 
 ## User Configuration
 
